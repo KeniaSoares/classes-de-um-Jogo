@@ -1,4 +1,4 @@
-# Heroi - Jogo de Aventura
+# Herói - Jogo de Aventura
 
 Este é um simples código em JavaScript que implementa a classe Heroi para representar um herói em um jogo de aventura. A classe possui propriedades como **nome**, **idade** e **tipo**, além do método **atacar** que simula um ataque do herói com base no seu tipo.
 
